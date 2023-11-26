@@ -1,2 +1,2 @@
 # pdftotext
-Takes PDFs, outputs 
+Takes PDFs, outputs text files
